@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋 I'm Léo Gonzalez</h1>
 <p align="center">
   Full-Stack Developer 💻 | Automation Consultant ⚙️ | System Integrator 🧩  
 </p>
@@ -44,7 +44,7 @@ I believe in writing clean code, solving actual problems, and integrating system
 
 ## 📚 Current Focus
 
-- 👨‍💻 Final projects at Le Wagon: MVPs with Rails + React
+- 👨‍💻 Final projects at Le Wagon: MVPs with Rails + JavaScript
 - ⚙️ Building smart backends with automation & APIs
 - 🧠 Exploring GPT-based agents & AI-powered workflows
 
@@ -52,10 +52,7 @@ I believe in writing clean code, solving actual problems, and integrating system
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio / Website](https://yourwebsite.com)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/l%C3%A9o-gonzalez-364ba7268/))
 ---
 
 <p align="center">
