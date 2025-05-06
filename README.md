@@ -60,6 +60,11 @@ I believe in writing clean code, solving actual problems, and integrating system
 </p>
 
 ---
-See somme of my lattest projects :
-Landing Page :
+# See somme of my lattest projects :
+## Landing Page :
 https://fujinebisu.github.io/landing/
+https://gover-consulting.fr/
+https://www.nurosell.com/
+
+## Notion :
+https://gover-consulting.notion.site/Build-Wealth-on-Autopilot-The-70-30-Money-Strategy-1-19752f87d3f3808bac18d7ee0d1a645a?pvs=74
