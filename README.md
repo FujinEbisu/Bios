@@ -52,7 +52,7 @@ I believe in writing clean code, solving actual problems, and integrating system
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/l%C3%A9o-gonzalez-364ba7268/))
+- 💼 ![LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/l%C3%A9o-gonzalez-364ba7268/)
 ---
 
 <p align="center">
