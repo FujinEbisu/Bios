@@ -58,3 +58,8 @@ I believe in writing clean code, solving actual problems, and integrating system
 <p align="center">
   <i>“Build what matters. Automate the rest.”</i>
 </p>
+
+---
+See somme of my lattest projects :
+Landing Page :
+https://fujinebisu.github.io/landing/
