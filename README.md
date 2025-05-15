@@ -15,7 +15,7 @@ I’m a developer and consultant with a background in business systems, now focu
 I believe in writing clean code, solving actual problems, and integrating systems that *just work*.
 
 - 🎓 Full-Stack Web Development Bootcamp @ **Le Wagon Bordeaux**
-- 🛠 Building apps with Rails, React, and Postgres
+- 🛠 Building apps with Rails, React, Vue, Python, and Postgres
 - 🤖 Designing AI agents + automations using RelevanceAI, Zapier, and Make
 - 💡 Passionate about dev tools, productivity, and clean architecture
 
@@ -26,10 +26,14 @@ I believe in writing clean code, solving actual problems, and integrating system
 **Languages & Frameworks**  
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+---
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
