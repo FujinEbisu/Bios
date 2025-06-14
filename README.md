@@ -1,16 +1,16 @@
-<h1 align="center">Hi there 👋 I'm Léo Gonzalez</h1>
+<h1 align="center">Hey there 👋 I'm Léo Gonzalez</h1>
 <p align="center">
   Full-Stack Developer 💻 | Automation Consultant ⚙️ | System Integrator 🧩  
 </p>
 <p align="center">
-  Currently at <strong>Le Wagon Bordeaux</strong> 🚀 — sharpening full-stack skills and building real-world apps
+  <strong>Le Wagon | Bordeaux | Finisher 🏁 </strong> 🚀 — sharpening full-stack skills and building real-world apps
 </p>
 
 ---
 
-## 🔥 About Me
+##  🔎 About Me
 
-I’m a developer and consultant with a background in business systems, now focused on building elegant, scalable full-stack applications. My toolkit spans from **Ruby on Rails** and **React** to **automation platforms** and AI-driven solutions.
+I’m a developer and consultant with a background in business systems, now focused on building elegant, scalable full-stack applications. My toolkit spans from **Ruby on Rails** and **Java Script** to **automation platforms** and AI-driven solutions.
 
 I believe in writing clean code, solving actual problems, and integrating systems that *just work*.
 
@@ -55,7 +55,7 @@ I believe in writing clean code, solving actual problems, and integrating system
 ---
 
 ## 📫 Let's Connect
-
+- X X.com 👉 
 - 💼 LinkedIn 👉 https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/l%C3%A9o-gonzalez-364ba7268/)
 ---
 
