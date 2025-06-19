@@ -47,7 +47,7 @@ I believe in writing clean code, solving actual problems, and integrating system
 ---
 
 ## 📚 Current Focus
-- 👩‍🍼 Nursey App - Because having a baby should be simpler ! ![Nursey](https://nursey.site)
+- 👩‍🍼 Nursey App - Because having a baby should be simpler ! [Nursey](https://nursey.site)
 - ⚙️ Building smart backends with automation & APIs
 - 🧠 Exploring GPT-based agents & AI-powered workflows
 
