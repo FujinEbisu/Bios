@@ -47,8 +47,7 @@ I believe in writing clean code, solving actual problems, and integrating system
 ---
 
 ## 📚 Current Focus
-
-- 👨‍💻 Final projects at Le Wagon: MVPs with Rails + JavaScript
+- 👩‍🍼 Nursey App - Because having a baby should be simpler ! ![Nursey](https://nursey.site)
 - ⚙️ Building smart backends with automation & APIs
 - 🧠 Exploring GPT-based agents & AI-powered workflows
 
