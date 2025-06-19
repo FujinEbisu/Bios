@@ -54,8 +54,8 @@ I believe in writing clean code, solving actual problems, and integrating system
 ---
 
 ## 📫 Let's Connect
-- X X.com 👉 
-- 💼 LinkedIn 👉 https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/l%C3%A9o-gonzalez-364ba7268/)
+- X X.com 👉 [Public building](https://x.com/LeoGoverG)
+- 💼 LinkedIn 👉 [My Profile](https://www.linkedin.com/in/l%C3%A9o-gonzalez-364ba7268/)
 ---
 
 <p align="center">
