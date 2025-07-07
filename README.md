@@ -1,61 +1,77 @@
-<h1 align="center">Hey there 👋 I'm Léo Gonzalez</h1>
+<h1 align="center">Hi 👋 I'm Léo Gonzalez</h1>
 <p align="center">
-  Full-Stack Developer 💻 | Automation Consultant ⚙️ | System Integrator 🧩  
+  Full-Stack Developer | Automation Consultant
 </p>
 <p align="center">
-  <strong>Le Wagon | Bordeaux | Finisher 🏁 </strong> 🚀 — sharpening full-stack skills and building real-world apps
+  <strong>Le Wagon | Bordeaux | I’m currently open to work</strong> — sharpening full-stack skills and building real-world apps
 </p>
 
 ---
 
-##  🔎 About Me
+##  About Me
 
-I’m a developer and consultant with a background in business systems, now focused on building elegant, scalable full-stack applications. My toolkit spans from **Ruby on Rails** and **Java Script** to **automation platforms** and AI-driven solutions.
+Recently finished the Le Wagon Bootcamp, it allowed me to learn Ruby on rails, JavaScript and improve project management.
 
-I believe in writing clean code, solving actual problems, and integrating systems that *just work*.
+With +8 years on management skills, I’m confident that my capabilities as a manager can be of great value to the company goals.
 
-- 🎓 Full-Stack Web Development Bootcamp @ **Le Wagon Bordeaux**
-- 🛠 Building apps with Rails, React, Vue, Python, and Postgres
-- 🤖 Designing AI agents + automations using RelevanceAI, Zapier, and Make
-- 💡 Passionate about dev tools, productivity, and clean architecture
+My passion for new, better, faster, stronger helps me understand what users need. Even before they even know they need it.
 
+If you need someone on your team for managing people and technical knowledge let me know! I’m currently open to work.
+
+---
+# See somme of my lattest projects :
+[Personal Portfolio ](https://goverstudio.com/) -> 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+</br>
+[Nursey ](https://nursey.fr/) -> 
+![Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+</br>
+[Consulting Page Example ](https://gover-consulting.fr/) -> 
+![Astro](https://img.shields.io/badge/-Astro-000000?logo=Astro&logoColor=white)
+</br>
+[AI SaaS Nurosell ](https://www.nurosell.com/) -> 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**  
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
+**Languages**  
 ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ---
 
-**Tools & Platforms**  
+**Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![RelevanceAI](https://img.shields.io/badge/-RelevanceAI-blueviolet)
 ![Zapier](https://img.shields.io/badge/-Zapier-FE4C1C?logo=zapier&logoColor=white)
 ![Make.com](https://img.shields.io/badge/-Make-1DA1F2?logo=make&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 
 ---
 
-## 📚 Current Focus
-- 👩‍🍼 Nursey App - Because having a baby should be simpler ! [Nursey](https://nursey.site)
-- ⚙️ Building smart backends with automation & APIs
-- 🧠 Exploring GPT-based agents & AI-powered workflows
+## Current Focus
+- Nursey App - Because having a baby should be simpler ! [Nursey](https://nursey.fr)
+- Building smart backends with automation & APIs
+- Exploring GPT-based agents & AI-powered workflows
 
 ---
 
-## 📫 Let's Connect
-- X X.com 👉 [Public building](https://x.com/LeoGoverG)
-- 💼 LinkedIn 👉 [My Profile](https://www.linkedin.com/in/l%C3%A9o-gonzalez-364ba7268/)
+## Let's Connect
+- [Public building on X](https://x.com/LeoGoverG)
+- [My LinkedIn Profile](https://www.linkedin.com/in/l%C3%A9o-gonzalez-364ba7268/)
 ---
 
 <p align="center">
@@ -63,11 +79,3 @@ I believe in writing clean code, solving actual problems, and integrating system
 </p>
 
 ---
-# See somme of my lattest projects :
-## Landing Page :
-https://fujinebisu.github.io/landing/
-https://gover-consulting.fr/
-https://www.nurosell.com/
-
-## Notion :
-https://gover-consulting.notion.site/Build-Wealth-on-Autopilot-The-70-30-Money-Strategy-1-19752f87d3f3808bac18d7ee0d1a645a?pvs=74
